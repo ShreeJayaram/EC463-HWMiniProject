@@ -41,7 +41,7 @@ It was possible to count cars with the use of an OpenCV library for python. For 
 1.First, install the latest version of python and pip into the SSH’d version of raspberry pi local. 
 2. Use pip install to install libraries such as numpy and openCV. OpenCV which stands for open source computer vision is a library of programming functions which is aimed at real-time computer vision and image/video processing. In our case, this library will help us recognize cars and count the number of them passing through. 
 
-<center><img src="./Images/screenshot_2.png" width="50%" /></center>
+<center><img src="./Images/screenshot_3.png" width="50%" /></center>
 
 Image 2: Video taken on commonwealth avenue and the red boxes show that the cars are detected and the terminal output show the amount of cars detected at any given instant. However,note the false positive on the tree on the far left. 
 
