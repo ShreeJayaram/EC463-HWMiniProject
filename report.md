@@ -31,11 +31,11 @@ Image 1: “pi@raspberrypi” denotes that we were able to SSH into the pi’s n
 
 4.  Pi’s Serial Number - Pi’s Unique Serial number is Serial: 000000008305a3ca
 
-Methodology Overview 
+ 
 
 <center><img src="./Images/screenshot_2.png" width="50%" /></center>
 
-
+Methodology Overview
 It was possible to count cars with the use of an OpenCV library for python. For this to be possible, the following steps were followed: 
 
 1.First, install the latest version of python and pip into the SSH’d version of raspberry pi local. 
