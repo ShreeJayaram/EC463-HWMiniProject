@@ -3,7 +3,7 @@ EC463: Senior Design Mini-Hardware Project September 20th, 2018
 
 Car Counting using Raspberry Pi Zero W
 
-By: Shreenidhi Jayaram Qinglang Yu
+By: Shreenidhi Jayaram, Qinglang Yu
 
 Abstract
 
