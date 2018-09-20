@@ -11,7 +11,9 @@ An increase in population in city limits often correlates to higher vehicle cong
 
 Contribution: 
 
-(Most tasks were done together in collaboaration) 
+(Most tasks were done together in collaboration) 
 
 Shreenidhi "Shree" Jayaram: SD card OS setup, Video Acquisition/Processing,Python libraries
+
+
 Qinglang "Kevin" Yu: SSH setup, Python code, Video Processing
